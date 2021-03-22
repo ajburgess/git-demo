@@ -2,6 +2,7 @@ This is file 1.
 Line 2.
 Line 3.
 Line 4.
+This is an extra line.
 Line 5.
 Line 6.
 Line 7.
